@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">jetpacknavigation2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="afragment">Fragment A</string>
+    <string name="bfragment">Fragment B</string>
+    <string name="cfragment">Fragment C</string>
+</resources>
